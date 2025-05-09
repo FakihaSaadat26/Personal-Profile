@@ -43,6 +43,27 @@ const Profile = () => {
           <li>Pathfinding Visualizer (C++ with SFML)</li>
         </ul>
       </section>
+
+      <section className="profile-section">
+        <h2 className="section-title">Certificates</h2>
+        <ul className="project-list">
+          <li>Swimming</li>
+          <li>Debates</li>
+          <li>Annual Results</li>
+          <li>Competitions</li>
+        </ul>
+      </section>
+
+      <section className="profile-section">
+        <h2 className="section-title">Interests</h2>
+        <ul className="project-list">
+          <li>Reading</li>
+          <li>Swimming</li>
+          <li>Playing Badminton</li>
+          <li>Cycling</li>
+          <li>Programming</li>
+        </ul>
+      </section>
     </div>
   );
 };
